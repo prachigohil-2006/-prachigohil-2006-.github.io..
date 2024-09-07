@@ -1,2 +1,1 @@
-# -prachigohil-2006-.github.io..
-amazon clone 
+AMAZON CLONE WEB
